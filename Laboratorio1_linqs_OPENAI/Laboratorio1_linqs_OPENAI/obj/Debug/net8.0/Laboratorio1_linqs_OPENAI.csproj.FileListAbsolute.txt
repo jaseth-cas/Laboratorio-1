@@ -12,3 +12,17 @@ C:\Users\Jaseth\OneDrive - Universidad Tecnológica de Panamá\Software IV\Labor
 C:\Users\Jaseth\OneDrive - Universidad Tecnológica de Panamá\Software IV\Laboratorio 1\Laboratorio1_linqs_OPENAI\Laboratorio1_linqs_OPENAI\obj\Debug\net8.0\Laboratorio1_linqs_OPENAI.pdb
 C:\Users\Jaseth\OneDrive - Universidad Tecnológica de Panamá\Software IV\Laboratorio 1\Laboratorio1_linqs_OPENAI\Laboratorio1_linqs_OPENAI\obj\Debug\net8.0\Laboratorio1_linqs_OPENAI.genruntimeconfig.cache
 C:\Users\Jaseth\OneDrive - Universidad Tecnológica de Panamá\Software IV\Laboratorio 1\Laboratorio1_linqs_OPENAI\Laboratorio1_linqs_OPENAI\obj\Debug\net8.0\ref\Laboratorio1_linqs_OPENAI.dll
+C:\Users\DELL\Documents\Laboratorio-1-main\Laboratorio1_linqs_OPENAI\Laboratorio1_linqs_OPENAI\bin\Debug\net8.0\Laboratorio1_linqs_OPENAI.exe
+C:\Users\DELL\Documents\Laboratorio-1-main\Laboratorio1_linqs_OPENAI\Laboratorio1_linqs_OPENAI\bin\Debug\net8.0\Laboratorio1_linqs_OPENAI.deps.json
+C:\Users\DELL\Documents\Laboratorio-1-main\Laboratorio1_linqs_OPENAI\Laboratorio1_linqs_OPENAI\bin\Debug\net8.0\Laboratorio1_linqs_OPENAI.runtimeconfig.json
+C:\Users\DELL\Documents\Laboratorio-1-main\Laboratorio1_linqs_OPENAI\Laboratorio1_linqs_OPENAI\bin\Debug\net8.0\Laboratorio1_linqs_OPENAI.dll
+C:\Users\DELL\Documents\Laboratorio-1-main\Laboratorio1_linqs_OPENAI\Laboratorio1_linqs_OPENAI\bin\Debug\net8.0\Laboratorio1_linqs_OPENAI.pdb
+C:\Users\DELL\Documents\Laboratorio-1-main\Laboratorio1_linqs_OPENAI\Laboratorio1_linqs_OPENAI\obj\Debug\net8.0\Laboratorio1_linqs_OPENAI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Documents\Laboratorio-1-main\Laboratorio1_linqs_OPENAI\Laboratorio1_linqs_OPENAI\obj\Debug\net8.0\Laboratorio1_linqs_OPENAI.AssemblyInfoInputs.cache
+C:\Users\DELL\Documents\Laboratorio-1-main\Laboratorio1_linqs_OPENAI\Laboratorio1_linqs_OPENAI\obj\Debug\net8.0\Laboratorio1_linqs_OPENAI.AssemblyInfo.cs
+C:\Users\DELL\Documents\Laboratorio-1-main\Laboratorio1_linqs_OPENAI\Laboratorio1_linqs_OPENAI\obj\Debug\net8.0\Laboratorio1_linqs_OPENAI.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Documents\Laboratorio-1-main\Laboratorio1_linqs_OPENAI\Laboratorio1_linqs_OPENAI\obj\Debug\net8.0\Laboratorio1_linqs_OPENAI.dll
+C:\Users\DELL\Documents\Laboratorio-1-main\Laboratorio1_linqs_OPENAI\Laboratorio1_linqs_OPENAI\obj\Debug\net8.0\refint\Laboratorio1_linqs_OPENAI.dll
+C:\Users\DELL\Documents\Laboratorio-1-main\Laboratorio1_linqs_OPENAI\Laboratorio1_linqs_OPENAI\obj\Debug\net8.0\Laboratorio1_linqs_OPENAI.pdb
+C:\Users\DELL\Documents\Laboratorio-1-main\Laboratorio1_linqs_OPENAI\Laboratorio1_linqs_OPENAI\obj\Debug\net8.0\Laboratorio1_linqs_OPENAI.genruntimeconfig.cache
+C:\Users\DELL\Documents\Laboratorio-1-main\Laboratorio1_linqs_OPENAI\Laboratorio1_linqs_OPENAI\obj\Debug\net8.0\ref\Laboratorio1_linqs_OPENAI.dll

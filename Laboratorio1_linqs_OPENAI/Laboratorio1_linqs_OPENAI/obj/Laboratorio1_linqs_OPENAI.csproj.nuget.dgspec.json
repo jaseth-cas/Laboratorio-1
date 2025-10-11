@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Jaseth\\OneDrive - Universidad Tecnológica de Panamá\\Software IV\\Laboratorio 1\\Laboratorio1_linqs_OPENAI\\Laboratorio1_linqs_OPENAI\\Laboratorio1_linqs_OPENAI.csproj": {}
+    "C:\\Users\\DELL\\Documents\\Laboratorio-1-main\\Laboratorio1_linqs_OPENAI\\Laboratorio1_linqs_OPENAI\\Laboratorio1_linqs_OPENAI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Jaseth\\OneDrive - Universidad Tecnológica de Panamá\\Software IV\\Laboratorio 1\\Laboratorio1_linqs_OPENAI\\Laboratorio1_linqs_OPENAI\\Laboratorio1_linqs_OPENAI.csproj": {
+    "C:\\Users\\DELL\\Documents\\Laboratorio-1-main\\Laboratorio1_linqs_OPENAI\\Laboratorio1_linqs_OPENAI\\Laboratorio1_linqs_OPENAI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Jaseth\\OneDrive - Universidad Tecnológica de Panamá\\Software IV\\Laboratorio 1\\Laboratorio1_linqs_OPENAI\\Laboratorio1_linqs_OPENAI\\Laboratorio1_linqs_OPENAI.csproj",
+        "projectUniqueName": "C:\\Users\\DELL\\Documents\\Laboratorio-1-main\\Laboratorio1_linqs_OPENAI\\Laboratorio1_linqs_OPENAI\\Laboratorio1_linqs_OPENAI.csproj",
         "projectName": "Laboratorio1_linqs_OPENAI",
-        "projectPath": "C:\\Users\\Jaseth\\OneDrive - Universidad Tecnológica de Panamá\\Software IV\\Laboratorio 1\\Laboratorio1_linqs_OPENAI\\Laboratorio1_linqs_OPENAI\\Laboratorio1_linqs_OPENAI.csproj",
-        "packagesPath": "C:\\Users\\Jaseth\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Jaseth\\OneDrive - Universidad Tecnológica de Panamá\\Software IV\\Laboratorio 1\\Laboratorio1_linqs_OPENAI\\Laboratorio1_linqs_OPENAI\\obj\\",
+        "projectPath": "C:\\Users\\DELL\\Documents\\Laboratorio-1-main\\Laboratorio1_linqs_OPENAI\\Laboratorio1_linqs_OPENAI\\Laboratorio1_linqs_OPENAI.csproj",
+        "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\DELL\\Documents\\Laboratorio-1-main\\Laboratorio1_linqs_OPENAI\\Laboratorio1_linqs_OPENAI\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Jaseth\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\DELL\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -65,7 +65,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.304/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.305/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
